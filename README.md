@@ -1,6 +1,12 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:123B66,100:1F6FEB&height=170&section=header&text=Aishwarya%20Kambali&fontSize=36&fontColor=E6EDF3&fontAlignY=38" width="100%" alt="Dark blue profile banner" />
+  <img
+    src="./Cozy%20Pixel%20Workspace%20at%20Dusk.png"
+    width="100%"
+    alt="Cozy pixel-art workspace at dusk"
+  />
 </p>
+
 
 <p align="center">
   <b>CSE student · Cybersecurity learner · Hands-on labs</b>
